@@ -1,0 +1,10 @@
+#bodybackground{
+    background-image:url("Pizarron.jpg");
+    background-size:cover; 
+    background-position:center ;
+    
+}
+#lienzo{
+    background-color: white;
+    border-style:dashed;
+}
